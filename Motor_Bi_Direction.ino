@@ -1,5 +1,5 @@
 void setup() {
-  // put your setup code here, to run once:
+  // setup code here, to run once:
 // set up the pin output
   pinMode(2, OUTPUT);
   pinMode(3, OUTPUT);
@@ -8,7 +8,7 @@ void setup() {
 }
 
 void loop() {
-  // put your main code here, to run repeatedly:
+  // main code here, to run repeatedly:
   // LED on
   digitalWrite(2, HIGH);
     // Control DC motor CW
